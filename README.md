@@ -9,7 +9,7 @@
 - ordinalswallet https://ordinalswallet.com/
 
 ## ブッロクチェーンに刻むツール
-- ordinalsbot https://ordinalsbot.com/　 **オススメ**　
+- ordinalsbot [https://ordinalsbot.com](https://ordinalsbot.com/)　 **オススメ**　
 - inscribenow https://inscribenow.io/
 - gamma https://gamma.io/
 
