@@ -5,16 +5,13 @@
 
 ## Wallet
 - ord https://github.com/casey/ord
-- xverse [https://www.xverse.app](https://www.xverse.app/) 　** オススメ **
+- xverse [https://www.xverse.app](https://www.xverse.app/) 　**オススメ**
 - ordinalswallet https://ordinalswallet.com/
 
 ## ブッロクチェーンに刻むツール
-- ordinalsbot https://ordinalsbot.com/　 　
+- ordinalsbot https://ordinalsbot.com/　 **オススメ**　
 - inscribenow https://inscribenow.io/
 - gamma https://gamma.io/
-
-**オススメ**
-太字は **このように** 表示されます。
 
 ## ディレクトリサービス
 - ordb https://ordb.xyz/
