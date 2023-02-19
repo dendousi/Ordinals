@@ -23,6 +23,9 @@
 - [OpenSeaでビットコインNFTを買う方法](https://note.com/goroishihata/n/ne8c33b4d504e)
 - [RarePepe再び](https://spotlight.soy/detail?article_id=d27523ft1)
 
+## 画像圧縮ツール
+- [squoosh](https://squoosh.app)
+
 ## umbrelとord
 - なんか難しそう。誰か設定方法教えて〜
 
