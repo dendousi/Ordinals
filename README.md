@@ -5,11 +5,11 @@
 
 ## Wallet
 - ord https://github.com/casey/ord
-- xverse https://www.xverse.app/ -->　<span style="color: red">オススメ</span>
+- xverse https://www.xverse.app/ -->　**オススメ**
 - ordinalswallet https://ordinalswallet.com/
 
 ## ブッロクチェーンに刻むツール
-- ordinalsbot https://ordinalsbot.com/　<font color="Red">オススメ</font>
+- ordinalsbot https://ordinalsbot.com/　-->　**オススメ**
 - inscribenow https://inscribenow.io/
 - gamma https://gamma.io/
 
