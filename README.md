@@ -9,9 +9,11 @@
 - ordinalswallet https://ordinalswallet.com/
 
 ## ブッロクチェーンに刻むツール
-- ordinalsbot https://ordinalsbot.com/　-->　** オススメ **
+- ordinalsbot https://ordinalsbot.com/　 　
 - inscribenow https://inscribenow.io/
 - gamma https://gamma.io/
+
+** オススメ **
 
 ## ディレクトリサービス
 - ordb https://ordb.xyz/
