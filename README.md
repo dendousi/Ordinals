@@ -13,7 +13,8 @@
 - inscribenow https://inscribenow.io/
 - gamma https://gamma.io/
 
-** オススメ **
+**オススメ**
+太字は **このように** 表示されます。
 
 ## ディレクトリサービス
 - ordb https://ordb.xyz/
