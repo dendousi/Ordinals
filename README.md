@@ -1,4 +1,4 @@
-# Ordinals　個人メモ　
+# Ordinals　自分用メモ　
 
 ## Ordinals 本家
 - Ordinals.com https://ordinals.com
