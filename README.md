@@ -19,11 +19,11 @@
 - ordinalhub https://www.ordinalhub.com/
  
 ## マーケットプレイス
-- ビットコイン系
- - ？？？
-- イーサー系
- - opensea https://opensea.io/ja
- - ???
+* ビットコイン系
+ * ？？？
+* イーサー系
+ * opensea https://opensea.io/ja
+ * ???
  
 ## EmblemVault (BitcoinNFTを包んでOpenSeaなどに出品する方法)
 - [EmblemVaultとは何？？](https://ameblo.jp/cryptoman/entry-12657978379.html)
