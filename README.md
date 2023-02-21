@@ -19,7 +19,7 @@
 - ordinalhub https://www.ordinalhub.com/
  
 ## マーケットプレイス
-- opensea https://opensea.io/ja　evで包んだやつ出品可能
+- opensea https://opensea.io/ja evで包んだやつ出品可能
 - gamma　https://gamma.io/collections stxを通貨として売買？stxってなんぞ？
 - ordswap　https://ordswap.io/
 - ordina　https://ordina.ls/
