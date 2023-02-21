@@ -19,13 +19,15 @@
 - ordinalhub https://www.ordinalhub.com/
  
 ## マーケットプレイス
-- ビットコイン系
- - ？？？
- - 
-- イーサー系
- - opensea https://opensea.io/ja
- - ???
- 
+- opensea https://opensea.io/ja
+- gamma　https://gamma.io/collections
+- ordswap　https://ordswap.io/
+- ordina　https://ordina.ls/
+- ordinals.market　https://ordinals.market/
+- scarce.city　https://scarce.city/marketplace/digital?refinementList%5Bset%5D%5B0%5D=ordinals
+
+
+
 ## EmblemVault (BitcoinNFTを包んでOpenSeaなどに出品する方法)
 - [EmblemVaultとは何？？](https://ameblo.jp/cryptoman/entry-12657978379.html)
 - [OpenSeaでビットコインNFTを買う方法](https://note.com/goroishihata/n/ne8c33b4d504e)
