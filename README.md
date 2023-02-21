@@ -37,5 +37,13 @@
 ## umbrelとord
 - なんか難しそう。誰か設定方法教えて〜
 
+## sat ハンティング
+- あなたのwalletにお宝眠ってるかもよ。
+- 必要なもの
+- sparrow
+- sat エクスプローラー　https://ordinals.com/
+- 
+
+
 ## 注目コレクション
 - [ORDINALGOROS](https://ordinalsdirectory.com/ordinalgoros/)
