@@ -1,4 +1,4 @@
-# Ordinals　自分用メモ　
+# Ordinals　自分用メモ　　
 
 ## Ordinals 本家
 - Ordinals.com https://ordinals.com
@@ -19,14 +19,12 @@
 - ordinalhub https://www.ordinalhub.com/
  
 ## マーケットプレイス
-- opensea https://opensea.io/ja
-- gamma　https://gamma.io/collections
+- opensea https://opensea.io/ja　evで包んだやつ出品可能
+- gamma　https://gamma.io/collections stxを通貨として売買？stxってなんぞ？
 - ordswap　https://ordswap.io/
 - ordina　https://ordina.ls/
 - ordinals.market　https://ordinals.market/
 - scarce.city　https://scarce.city/marketplace/digital?refinementList%5Bset%5D%5B0%5D=ordinals
-
-
 
 ## EmblemVault (BitcoinNFTを包んでOpenSeaなどに出品する方法)
 - [EmblemVaultとは何？？](https://ameblo.jp/cryptoman/entry-12657978379.html)
