@@ -7,6 +7,8 @@
 - ord https://github.com/casey/ord
 - xverse [https://www.xverse.app](https://www.xverse.app/) 　**オススメ**
 - ordinalswallet https://ordinalswallet.com/
+- https://wallet.hiro.so/
+- 
 
 ## sparrowで送受信
 - https://twitter.com/ordinalswallet/status/1626707858367692803?s=20
