@@ -41,6 +41,7 @@
 
 ## umbrelとord
 - なんか難しそう。誰か設定方法教えて〜
+- こことか？　https://www.suresats.com/post/ord-umbrel
 
 ## sat ハンティング
 - あなたのwalletにお宝眠ってるかもよ。
