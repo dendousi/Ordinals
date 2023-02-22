@@ -8,6 +8,9 @@
 - xverse [https://www.xverse.app](https://www.xverse.app/) 　**オススメ**
 - ordinalswallet https://ordinalswallet.com/
 
+## sparrowで送受信
+- https://twitter.com/ordinalswallet/status/1626707858367692803?s=20
+
 ## ブッロクチェーンに刻むツール
 - ordinalsbot [https://ordinalsbot.com](https://ordinalsbot.com/)　 **オススメ**　
 - inscribenow https://inscribenow.io/
