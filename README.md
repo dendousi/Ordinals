@@ -16,12 +16,14 @@
 ## ブッロクチェーンに刻むツール
 - ordinalsbot [https://ordinalsbot.com](https://ordinalsbot.com/)　 **オススメ**　
 - inscribenow https://inscribenow.io/
-- gamma https://gamma.io/
+- gamma https://gamma.io/ **大量に刻む時は手数料安くなる**
 
 ## ディレクトリサービス
 - ordb https://ordb.xyz/
 - ordinalsdirectory https://ordinalsdirectory.com/
 - ordinalhub https://www.ordinalhub.com/
+- gamma https://gamma.io/ **無料**
+- ordswap　https://ordswap.io/collections/　**無料**
  
 ## マーケットプレイス
 - opensea https://opensea.io/ja evで包んだやつ出品可能
