@@ -17,6 +17,7 @@
 - ordinalsbot [https://ordinalsbot.com](https://ordinalsbot.com/)　 **オススメ**　
 - inscribenow https://inscribenow.io/
 - gamma https://gamma.io/ **大量に刻む時は手数料安くなる**
+- ordswap https://inscribe.ordswap.io/
 
 ## ディレクトリサービス
 - ordb https://ordb.xyz/
