@@ -28,7 +28,7 @@
 ## マーケットプレイス
 - opensea https://opensea.io/ja evで包んだやつ出品可能
 - gamma　https://gamma.io/collections stxを通貨として売買？stxってなんぞ？
-- ordswap　https://ordswap.io/
+- ordswap　https://ordswap.io/ ここはbtcで売買できるっぽいな。
 - ordina　https://ordina.ls/
 - ordinals.market　https://ordinals.market/
 - scarce.city　https://scarce.city/marketplace/digital?refinementList%5Bset%5D%5B0%5D=ordinals
