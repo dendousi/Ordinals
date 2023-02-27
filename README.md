@@ -20,11 +20,13 @@
 - ordswap https://inscribe.ordswap.io/
 
 ## ディレクトリサービス
-- ordb https://ordb.xyz/
-- ordinalsdirectory https://ordinalsdirectory.com/ **登録に２５０ドル要求されるぜ！**
-- ordinalhub https://www.ordinalhub.com/
+- ordinalsdirectory https://ordinalsdirectory.com/ **有料**
 - gamma https://gamma.io/ **無料**
 - ordswap　https://ordswap.io/collections/ **無料**
+- https://ordynals.com/get-listed **有料**
+- ordinalhub https://www.ordinalhub.com/
+- ordb https://ordb.xyz/
+
  
 ## マーケットプレイス
 - opensea https://opensea.io/ja evで包んだやつ出品可能
