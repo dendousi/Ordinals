@@ -20,12 +20,12 @@
 - ordswap https://inscribe.ordswap.io/
 
 ## ディレクトリサービス
-- ordinalsdirectory https://ordinalsdirectory.com/ **有料**
 - gamma https://gamma.io/ **無料**
 - ordswap　https://ordswap.io/collections/ **無料**
 - https://ordynals.com/get-listed **有料**
 - ordinalhub https://www.ordinalhub.com/
 - ordb https://ordb.xyz/
+- ordinalsdirectory https://ordinalsdirectory.com/ **有料**
 
  
 ## マーケットプレイス
