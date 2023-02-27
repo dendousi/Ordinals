@@ -3,6 +3,9 @@
 ## Ordinals 本家
 - Ordinals.com https://ordinals.com
 
+## 参考サイト
+- [GOROで学ぶBitcoinNFT Ordinal](https://spotlight.soy/detail?article_id=8qr3natkw)
+
 ## Wallet
 - ord https://github.com/casey/ord
 - xverse [https://www.xverse.app](https://www.xverse.app/) 　**オススメ**
@@ -57,4 +60,5 @@
 
 
 ## 注目コレクション
-- [ORDINALGOROS](https://ordinalsdirectory.com/ordinalgoros/)
+- [Ordinal RareHODL](https://gamma.io/collections/ordinals/cleghh7t50000ml08fj4qh4l0)
+- [ORDINALGOROS](https://gamma.io/collections/ordinals/cleib37xt0000le08y7t876j8)
