@@ -7,17 +7,17 @@
 - [GOROで学ぶBitcoinNFT Ordinal](https://spotlight.soy/detail?article_id=8qr3natkw)
 
 ## Wallet
-- ord https://github.com/casey/ord
 - xverse [https://www.xverse.app](https://www.xverse.app/) 　**オススメ**
-- ordinalswallet https://ordinalswallet.com/
+- ordinalswallet https://ordinalswallet.com/ マケプレが最強なので必須
 - https://wallet.hiro.so/
+- ord https://github.com/casey/ord
 - 
 
 ## sparrowで送受信
 - https://twitter.com/ordinalswallet/status/1626707858367692803?s=20
 
 ## ブッロクチェーンに刻むツール
-- ordinalsbot [https://ordinalsbot.com](https://ordinalsbot.com/)　 **オススメ**　
+- ordinalsbot [https://ordinalsbot.com](https://ordinalsbot.com/)　 
 - inscribenow https://inscribenow.io/
 - gamma https://gamma.io/ **大量に刻む時は手数料安くなる**
 - ordswap https://inscribe.ordswap.io/
@@ -32,6 +32,7 @@
 
  
 ## マーケットプレイス
+- ordinalswallet https://ordinalswallet.com/ 今のとこ一人勝ち？
 - opensea https://opensea.io/ja evで包んだやつ出品可能
 - gamma　https://gamma.io/collections stxを通貨として売買？stxってなんぞ？
 - ordswap　https://ordswap.io/ ここはbtcで売買できるっぽいな。
