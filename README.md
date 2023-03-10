@@ -11,7 +11,7 @@
 - ordinalswallet https://ordinalswallet.com/ マケプレが最強なので必須
 - https://wallet.hiro.so/
 - ord https://github.com/casey/ord
-- 
+- unisat-wallet　https://brimless.medium.com/unisat-wallet-released-for-public-beta-testing-1656297abf3e
 
 ## sparrowで送受信
 - https://twitter.com/ordinalswallet/status/1626707858367692803?s=20
